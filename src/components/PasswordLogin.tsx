@@ -32,7 +32,7 @@ const PasswordLogin: React.FC<PasswordLoginProps> = ({ onLogin }) => {
           </div>
           <h1 className="text-white text-2xl font-bold mb-2">Portal Login</h1>
           <p className="text-white/80 text-sm">
-            SMP Muhammadiyah Al Mujahidin
+            SMP Muhammadiyah 1 Kota Probolinggo
           </p>
         </div>
 
@@ -77,7 +77,7 @@ const PasswordLogin: React.FC<PasswordLoginProps> = ({ onLogin }) => {
 
         <div className="mt-6 text-center">
           <p className="text-white/60 text-xs">
-            Portal Resmi SMP Muhammadiyah Al Mujahidin
+            Portal Resmi SMP Muhammadiyah 1 Kota Probolinggo
           </p>
         </div>
       </div>

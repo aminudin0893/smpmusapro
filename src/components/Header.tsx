@@ -20,10 +20,10 @@ const Header = () => {
 
       {/* School Name */}
       <div className="text-white mb-2">
-        <h1 className="text-sm font-medium mb-1">SMP MUHAMMADIYAH | MBS</h1>
+        <h1 className="text-sm font-medium mb-1">SMP MUHAMMADIYAH 1 | KOTA PROBOLINGGO</h1>
         <h2 className="text-3xl font-bold mb-1">
-          Al Mujahidin
-          <span className="text-xl ml-2 italic">Gunungkidul</span>
+          SMP Muhammadiyah 1
+          <span className="text-xl ml-2 italic">Probolinggo</span>
         </h2>
         <p className="text-sm opacity-90">FULLDAY & BOARDING SCHOOL</p>
       </div>
@@ -31,7 +31,7 @@ const Header = () => {
       {/* Portal Title */}
       <div className="glass-effect rounded-2xl px-8 py-4 mx-auto max-w-2xl">
         <h3 className="text-white text-lg font-semibold">
-          Portal Resmi SMP Muhammadiyah Al Mujahidin
+          Portal Resmi SMP Muhammadiyah 1 Kota Probolinggo
         </h3>
       </div>
     </div>
